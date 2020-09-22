@@ -2,7 +2,7 @@
  * @author jalon
  * @date 2020-9-22 14:27
  */
-public class userscontroller {
+public class Userscontroller {
 
     public static void main(String[] args) {
         for (int i = 0; i < 100; i++) {
